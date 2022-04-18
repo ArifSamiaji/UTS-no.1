@@ -1,0 +1,16 @@
+teori.txt
+
+SOAL NO.1
+Jelaskan apa yang dimaksud dengan Greedy Algorithm sesuai dengan pengertian anda sendiri,
+dan berikan beberapa contohnya dan implementasinya dikehidupan nyata.
+
+Algoritma greedy merupakan metode solusi langkah per langkah (step by step). 
+Terdapat banyak pilihan yang perlu dieksplorasi pada setiap langkah solusi. 
+Oleh karena itu, pada setiap langkah harus dibuat keputusan yang terbaik dalam menentukan pilihan. 
+Keputusan yang telah diambil pada suatu langkah tidak dapat diubah lagi pada langkah selanjutnya.
+
+Beberapa contoh implementasi Greedy Algorithm dalam kehidupan nyata
+– Bermain kartu remi
+– Memilih jurusan di Perguruan Tinggi
+– Memilih beberapa jenis investasi (penanaman modal)
+– Mencari jalur tersingkat dari Tegal ke Bandung
